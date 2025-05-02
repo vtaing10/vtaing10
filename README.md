@@ -6,7 +6,7 @@ I'm a Software Engineering student at Concordia University, passionate about AI,
 
 - 🔗 [LinkUp](https://github.com/antholim/LinkUp): Real-time messaging platform with AI-powered moderation
 - ☁️ [FlyHigh](https://github.com/vtaing10/FlyHigh): Cloud classifier using TensorFlow
-- 🧍 [FormCheck AI](https://devpost.com/software/fitnesscheck-ai): Posture correction tool with MediaPipe
+- 🧍 [FormCheck AI](https://devpost.com/software/fitnesscheck-ai): Exercise posture correction tool with MediaPipe
 
 ## 🛠 Tech Stack
 
