@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey HEY, I'm Victor Taing
 
-<!--
-**vtaing10/vtaing10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Concordia University, passionate about AI, full-stack dev, and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [LinkUp](https://github.com/antholim/LinkUp): Real-time messaging platform with AI-powered moderation
+- ☁️ [FlyHigh](https://github.com/vtaing10/FlyHigh): Cloud classifier using TensorFlow
+- 🧍 [FormCheck AI](https://devpost.com/software/fitnesscheck-ai): Posture correction tool with MediaPipe
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, JavaScript  
+**Tools:** TensorFlow, React, Node.js, Git, Jest, OpenCV, MediaPipe
+
+## 🌱 Currently Learning
+- Spring Boot
+- Model compression (quantization/pruning)
+- React best practices
+
+## 📫 Connect with me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-taing)
+- 🌐 [Portfolio](https://vtaing-portfolio.netlify.app)
