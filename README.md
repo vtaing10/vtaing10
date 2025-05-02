@@ -11,7 +11,7 @@ I'm a Software Engineering student at Concordia University, passionate about AI,
 ## 🛠 Tech Stack
 
 **Languages:** Python, Java, JavaScript  
-**Tools:** TensorFlow, React, Node.js, Git, Jest, OpenCV, MediaPipe
+**Tools:** TensorFlow, React, Node.js, PyTorch, Hugging Face, Git, Jest, OpenCV, MediaPipe
 
 ## 🌱 Currently Learning
 - Spring Boot
