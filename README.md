@@ -16,7 +16,7 @@ I'm a Software Engineering student at Concordia University, passionate about AI,
 ## 🌱 Currently Learning
 - Golang
 - Spring Boot
-- React best practices
+- React Native
 
 ## 📫 Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-taing)
