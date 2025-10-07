@@ -14,8 +14,8 @@ I'm a Software Engineering student at Concordia University, passionate about AI,
 **Tools:** TensorFlow, React, Node.js, PyTorch, Hugging Face, Git, Jest, OpenCV, MediaPipe
 
 ## 🌱 Currently Learning
+- Golang
 - Spring Boot
-- Model compression (quantization/pruning)
 - React best practices
 
 ## 📫 Connect with me:
